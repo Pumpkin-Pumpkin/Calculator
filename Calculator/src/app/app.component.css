@@ -1,0 +1,16 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+
+  
+  .calculator-screen {
+    width: 100%;
+    background-color: aqua;
+  }
+
+  
+  .calculator-keys {
+   width: 17em;
+    background-color: red;
+  }
